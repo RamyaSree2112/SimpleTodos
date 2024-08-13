@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+}
+.simple-todos-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 16px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-weight: 700;
+  margin-top: 12px;
+}
+.todos-list {
+  padding-left: 0px;
+}
